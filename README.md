@@ -21,7 +21,7 @@ This tool get TODAY top 10 from flixpatrol and push the result on trakt list (us
 ⚠️ Due to some limitation of Flixpatrol, we have to make a search of the movie/show title on trakt.
 That search is sort by relevance by Trakt. We then get the first item on the list that have the same release year
 that the wanted movie/show (it should be the first item it the list). If none is found we take the first one on the list. 
-It can cause some bad matching but there is nothing we can do about that.⚠️
+It can cause some bad matching but there is nothing we can do about that.⚠️ 
 
 ## Table of Content
 <!-- TOC -->
